@@ -1,4 +1,4 @@
-### Привет, я Таня ✨
+## Привет, я Таня ✨
 
 <div id="badges">
   <a href="https://t.me/solea03"><img src="https://img.shields.io/badge/Telegram-5bf?logo=telegram&logoColor=white&style=for-the-badge"></a>
