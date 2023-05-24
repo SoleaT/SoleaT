@@ -9,12 +9,13 @@
 * 🌐 А когда-то ведь писала сайты на php
 
 
-
+<div id="header" align="center">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="dark.jpg">
  <source media="(prefers-color-scheme: light)" srcset="light.jpg">
  <img alt="Solea" src="light.jpg">
 </picture>
+</div>
 
 
 
