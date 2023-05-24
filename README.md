@@ -5,7 +5,6 @@
   <a href="https://vk.com/solea03"><img src="https://img.shields.io/badge/VKontakte-07f?logo=vk&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.behance.net/solea815b63"><img src="https://img.shields.io/badge/Behance-04c?logo=behance&logoColor=white&style=for-the-badge"></a>
  </div>
-<img src="https://komarev.com/ghpvc/?username=SoleaT&style=flat-square&color=blue" alt=""/>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="dark.jpg">
@@ -38,6 +37,7 @@
  <img src="123.jpg" width="100%" height="1">
 
 
+<img src="https://komarev.com/ghpvc/?username=SoleaT&style=flat-square&color=blue" alt=""/>
 
 
  
